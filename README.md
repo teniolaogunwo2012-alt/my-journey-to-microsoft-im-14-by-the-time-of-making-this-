@@ -4,7 +4,7 @@ Hi! I am 14 years old and learning how to create games for microsoft game studio
 
 ## 🛠️ Current Status:
 - [x] Created my GitHub account
-- [] Upload my first website code
+- [x] Upload my first website code
 
 ## 📝 Latest Update:
 - **June 2026:** Just set up this repository to track my coding journey!
